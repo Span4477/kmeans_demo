@@ -1,1 +1,1 @@
-This repo demonstrates the usage of KMeans.
+This repo demonstrates the usage of various ML models.
