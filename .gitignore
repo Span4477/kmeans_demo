@@ -1,0 +1,7 @@
+.venv
+
+# Ignore everything in the temp folder
+temp/*
+
+# Except the .gitkeep file
+!temp/.gitkeep
