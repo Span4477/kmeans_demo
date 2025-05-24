@@ -33,6 +33,7 @@ platformdirs==4.3.8
 prompt_toolkit==3.0.51
 psutil==7.0.0
 pure_eval==0.2.3
+pycocotools==2.0.8
 Pygments==2.19.1
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
@@ -53,3 +54,4 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2025.2
 wcwidth==0.2.13
+xgboost==3.0.1
